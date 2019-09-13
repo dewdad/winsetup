@@ -130,6 +130,8 @@ cinst qbittorrent -dvy
 cinst vscode -dvy
 cinst pdfxchangeeditor -dvy
 cinst webtorrent-desktop -dvy 
+cinst imdisk -dvy
+cinst vlc -dvy
 #cinst firefox -dvy
 #cinst chocolateygui -dvy
 #cinst hot-chocolatey -dvy
